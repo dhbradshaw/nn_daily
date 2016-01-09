@@ -14,7 +14,29 @@ python3 -m venv ~/.virtualenvs/nn_daily
 To get github synched up, I just created nn_daily on github and then cloned it
 (using
 ```bash
-    $ git clone git@github.com:dhbradshaw/nn_daily.git
+$ git clone git@github.com:dhbradshaw/nn_daily.git
 ```
 .)
 Since I'm already up and running on github, that was all it took.  Maybe the next thing is to learn basic markdown.
+
+Okay, the first thing I learned is that triple back-ticks can be used to set apart code.  You can give a language hint after the opening back-ticks.
+
+To activate the venv, use
+```bash
+. ~/.virtualenvs/nn_daily/bin/activate
+```
+Note the '.' and the beginning, which is shorthand for 'source'.
+
+With the venv turned on, you can add the latest version of django.
+```bash
+$ pip install Django
+```
+
+I ran into an error when running the pip install, which took me here:
+
+    http://stackoverflow.com/questions/34371266/django-1-9-installation-syntaxerror-invalid-syntax
+I followed the suggestion of updating pip (using pip itself!) and the error left.
+
+```bash
+$ pip install -U pip
+```
