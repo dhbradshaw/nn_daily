@@ -1,6 +1,6 @@
 2015-01-08
 
--- Read a post about someone committing to make a public post on Github each day and decided to test it out.
+I read a post about someone committing to make a public post on Github each day and decided to test it out.  I'll see how it works to try to post something most days that aren't Sundays.
 
 In this log I'll add a bit about setup and things not reflected in the code.
 
