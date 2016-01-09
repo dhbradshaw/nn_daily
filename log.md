@@ -1,4 +1,21 @@
-2015-01-08
+## 2015-01-09
+Learned about markdown headings.  Basically, use between 1 and six pound signs.  1 is like h1, and 6 is like h6.  Follow pound signs with a space, as follows:
+```
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+```
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+## 2015-01-08
 
 I read a post about someone committing to make a public post on Github each day and decided to test it out.  I'll see how it works to try to post something most days that aren't Sundays.
 
