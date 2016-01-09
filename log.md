@@ -23,6 +23,11 @@ Also, you can make links.  Here's an example:
 
 [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 
+Here's quoting:
+```
+> Awesome quote
+```
+> Awesome quote
 
 
 ## 2015-01-08
