@@ -15,6 +15,16 @@ Learned about markdown headings.  Basically, use between 1 and six pound signs. 
 ##### H5
 ###### H6
 
+Also, you can make links.  Here's an example:
+
+```
+[Markdown Basics](https://help.github.com/articles/markdown-basics/)
+```
+
+[Markdown Basics](https://help.github.com/articles/markdown-basics/)
+
+
+
 ## 2015-01-08
 
 I read a post about someone committing to make a public post on Github each day and decided to test it out.  I'll see how it works to try to post something most days that aren't Sundays.
