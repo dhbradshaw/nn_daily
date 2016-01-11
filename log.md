@@ -1,3 +1,6 @@
+## 2015-01-10
+Added django project and requirements.txt.  Added .git_ignore to keep .pyc and db files out of git.
+
 ## 2015-01-09
 Learned about markdown headings.  Basically, use between 1 and six pound signs.  1 is like h1, and 6 is like h6.  Follow pound signs with a space, as follows:
 ```
