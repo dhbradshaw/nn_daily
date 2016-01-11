@@ -43,7 +43,7 @@ In this log I'll add a bit about setup and things not reflected in the code.
 
 For example, to set up venv for python3 on ubuntu, python3-venv failed.  Had to be more specific:
 ```shell
-    $ sudo apt-get install python3.4-venv
+$ sudo apt-get install python3.4-venv
 ```
 The the following created the venv:
 python3 -m venv ~/.virtualenvs/nn_daily
