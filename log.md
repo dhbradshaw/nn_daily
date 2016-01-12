@@ -1,3 +1,15 @@
+## 2015-01-12
+Created a convenience script for home/bin:
+```
+#!/bin/bash
+cd ~/projects/nn_daily
+. ~/.virtualenvs/nn_daily/bin/activate
+```
+I call it go2nnd and invoke it using the command
+```
+. go2nnd
+```
+
 ## 2015-01-10
 Added django project and requirements.txt.  Added .git_ignore to keep .pyc and db files out of git.
 
