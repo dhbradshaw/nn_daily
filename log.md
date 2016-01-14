@@ -2,7 +2,9 @@
 OAuth links:
 https://developer.github.com/v3/oauth/
 https://github.com/joestump/python-oauth2/wiki/Logging-into-Django-w--Twitter
-
+```
+$ python manage.py startapp nn
+```
 
 
 ## 2015-01-12
