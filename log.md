@@ -1,3 +1,10 @@
+## 2015-01-13
+OAuth links:
+https://developer.github.com/v3/oauth/
+https://github.com/joestump/python-oauth2/wiki/Logging-into-Django-w--Twitter
+
+
+
 ## 2015-01-12
 Created a convenience script for home/bin:
 ```
