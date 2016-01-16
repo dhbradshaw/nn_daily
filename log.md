@@ -1,4 +1,9 @@
-## 2015-01-14
+## 2016-01-15
+Found that although there is a django-social-auth3, there is not a version compatible with django 1.9.  So I moved on to django allauth following advice from Stack Overflow.  
+
+http://django-allauth.readthedocs.org/en/latest/installation.html
+
+## 2016-01-14
 Still working on oauth.  Tried pip install django-social-auth, but it didn't work for python3.
 Found python3 compatible version:
 
@@ -6,7 +11,7 @@ https://pypi.python.org/pypi/django-social-auth3/0.7.23
 
 However, it looks like it's still not caught up to the newest version of django.  So I may have to patch it.
 
-## 2015-01-13
+## 2016-01-13
 OAuth links:
 
 https://developer.github.com/v3/oauth/
@@ -17,7 +22,7 @@ $ python manage.py startapp nn
 ```
 
 
-## 2015-01-12
+## 2016-01-12
 Created a convenience script for home/bin:
 ```
 #!/bin/bash
@@ -29,10 +34,10 @@ I call it go2nnd and invoke it using the command
 . go2nnd
 ```
 
-## 2015-01-10
+## 2016-01-10
 Added django project and requirements.txt.  Added .git_ignore to keep .pyc and db files out of git.
 
-## 2015-01-09
+## 2016-01-09
 Learned about markdown headings.  Basically, use between 1 and six pound signs.  1 is like h1, and 6 is like h6.  Follow pound signs with a space, as follows:
 ```
 # H1
@@ -69,7 +74,7 @@ https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 
 
 
-## 2015-01-08
+## 2016-01-08
 
 I read a post about someone committing to make a public post on Github each day and decided to test it out.  I'll see how it works to try to post something most days that aren't Sundays.
 
