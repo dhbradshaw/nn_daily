@@ -1,6 +1,16 @@
+## 2015-01-14
+Still working on oauth.  Tried pip install django-social-auth, but it didn't work for python3.
+Found python3 compatible version:
+
+https://pypi.python.org/pypi/django-social-auth3/0.7.23
+
+However, it looks like it's still not caught up to the newest version of django.  So I may have to patch it.
+
 ## 2015-01-13
 OAuth links:
+
 https://developer.github.com/v3/oauth/
+
 https://github.com/joestump/python-oauth2/wiki/Logging-into-Django-w--Twitter
 ```
 $ python manage.py startapp nn
