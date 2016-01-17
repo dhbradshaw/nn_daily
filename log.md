@@ -1,3 +1,6 @@
+## 2016-01-16
+django allauth had nice documentation and worked after following the installation.  There was only one hitch--it had me log in to add github information to the database, and then when I tried to test it it kept redirecting me to a nonexistant profile page because I was already logged in.  After that I logged out and tested it and it worked like a charm.  Hurray!
+
 ## 2016-01-15
 Found that although there is a django-social-auth3, there is not a version compatible with django 1.9.  So I moved on to django allauth following advice from Stack Overflow.  
 
