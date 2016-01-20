@@ -1,7 +1,7 @@
-## 2016-01-18
+## 2016-01-19
 I'm trying to upgrade the Nnums app to python 3.4 and django 1.9.  It's going to be a bit before it's ready to post.
 
-## 2016-01-17
+## 2016-01-18
 Let's talk goals.  My main goal is to make this the nicest way to store and/or access a time-dependent numerical value on the web.  
 
 ## 2016-01-16
